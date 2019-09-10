@@ -6,4 +6,4 @@ enter id
 enter pw
 
 
-sucess
+success
